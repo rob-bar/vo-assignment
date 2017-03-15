@@ -1,5 +1,9 @@
 # VO - Opdracht
 
+## Opdracht installation
+`npm i`
+`gulp`
+
 ## Opmerkingen en werkwijze
 
 ### Werkwijze
