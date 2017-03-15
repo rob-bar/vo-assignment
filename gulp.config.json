@@ -1,0 +1,7 @@
+{
+  "path": {
+    "node": "./node_modules",
+    "dist": "./dist",
+    "src": "./src"
+  }
+}

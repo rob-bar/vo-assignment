@@ -1,0 +1,41 @@
+{
+  "name": "vo-assignment",
+  "version": "1.0.0",
+  "description": "This is an assignment for the Flemisch government were we demonstrate the use of their components on 2 different webpages.",
+  "main": "index.js",
+  "dependencies": {
+    "font-awesome": "^4.7.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.21.0",
+    "babel-preset-es2015": "^6.18.0",
+    "browser-sync": "^2.18.8",
+    "chalk": "^1.1.3",
+    "gulp": "^3.9.1",
+    "gulp-help-doc": "^1.0.9",
+    "gulp-scss-lint": "^0.4.0",
+    "gulp-sequence": "^0.4.6",
+    "terminal-notifier": "^0.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rob-bar/vo-assignment.git"
+  },
+  "keywords": [
+    "components",
+    "assignment",
+    "html",
+    "css",
+    "js",
+    "sass"
+  ],
+  "author": "Robbie Bardijn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rob-bar/vo-assignment/issues"
+  },
+  "homepage": "https://github.com/rob-bar/vo-assignment#readme"
+}
