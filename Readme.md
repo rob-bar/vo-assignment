@@ -27,5 +27,5 @@
 * Base styling kan want nu moet je telkens dit doen `<h2 class="h2">` of wrappen met typography
 * Meer icons. (font-awesome of fontello).
 * Dynamische breakpoints door middel van json file, hier kan dan ook config in gestoken worden. Plus die json kan in scss en js gelezen worden.
-* gebrek aan color helpers...Voorbeeld: -c-{colorname} example: -bgc-{colorname}
-* gebrek aan margin & padding helpers
+* Gebrek aan color helpers...Voorbeeld: -c-{colorname} example: -bgc-{colorname}
+* Gebrek aan margin & padding helpers
