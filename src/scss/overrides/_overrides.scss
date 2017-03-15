@@ -1,0 +1,22 @@
+.fa {
+  &.description-data__icon {
+    font-size: 2.2rem;
+    line-height: 1.5;
+  }
+}
+
+.description-data__icon-wrapper .description-data__icon {
+  position: relative;
+  display: block;
+}
+
+.sidebox {
+  background-color: #e8ebee;
+  padding: 2rem;
+  display: block;
+  margin-bottom: 30px;
+}
+
+.share-buttons--mb {
+  margin-bottom: 30px;
+}

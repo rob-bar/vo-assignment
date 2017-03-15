@@ -3,5 +3,14 @@
     "node": "./node_modules",
     "dist": "./dist",
     "src": "./src"
-  }
+  },
+
+  "sass": {
+    "style": "expanded"
+  },
+
+  "autoprefixer": [
+    "last 3 version",
+    "> 2%"
+  ]
 }
